@@ -1,4 +1,5 @@
 {
+  "guests":[
   {
     "id": 1,
     "name": "Guest 1"
@@ -6,5 +7,5 @@
   {
     "id": 2;,
     "name": "Guest 2"
-  }
+  }]
 }
